@@ -19,7 +19,7 @@
 
 - Huggingface (ViT): https://github.com/huggingface/transformers
 - Google (MLP Mixer in jax): https://github.com/google-research/vision_transformer/blob/main/vit_jax/models_mixer.py
-- rishikksh20 (MLP Mixer in torch): https://github.com/rishikksh20/MLP-Mixer-pytorch
+- Timm (MLP Mixer in torch): https://github.com/rwightman/pytorch-image-models/blob/main/timm/models/mlp_mixer.py
 
 ### Dataset
 
